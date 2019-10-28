@@ -9,4 +9,4 @@ Estudos de JavaScript:
 
 3- Projeto "Aparecida Nutricionista",realizado no curso JavaScript: Programando na Linguagem da WEB - ALURA
 
-4 - Alura Typer - projeto desenvolvido com JQuery
+
